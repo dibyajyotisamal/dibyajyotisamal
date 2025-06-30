@@ -14,10 +14,10 @@ I'm certified in Advanced SQL (HackerRank) and use tools like Power BI, Excel, a
 
 ## 🧠 Featured Projects
 
-🔹 [**Global Fund Strategy Dashboard**](https://github.com/yourusername/global-fund-strategy-dashboard)  
+🔹 [**Global Fund Strategy Dashboard**](https://github.com/dibyajyotisamal/global-fund-strategy-dashboard)  
 A 7-panel Power BI dashboard uncovering trends in global fund concentration, strategy performance, and AUM distribution. Inspired by decision frameworks used by top firms like BlackRock.
 
-🔹 [**Job Search Optimization with SQL + Power BI**](https://github.com/yourusername/job-search-analytics-sql-powerbi)  
+🔹 [**Job Search Optimization with SQL + Power BI**](https://github.com/dibyajyotisamal/job-search-analytics-sql-powerbi)  
 Analyzing personal job application data to uncover high-response-time windows, channel performance, and application strategies.
 
 ---
