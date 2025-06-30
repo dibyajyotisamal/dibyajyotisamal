@@ -9,6 +9,7 @@ I'm a former software developer at Accenture, now focused on turning data into a
 
 I'm certified in Advanced SQL (HackerRank) and use tools like Power BI, Excel, and DAX to build dashboards that uncover meaningful business insights.
 
+[My Resume](https://drive.google.com/file/d/1VOSeDypUwktAYOTTDk6W2zLQGWnzG3Xs/view?usp=sharing)
 ---
 
 ## 🧠 Featured Projects
@@ -29,4 +30,4 @@ Analyzing personal job application data to uncover high-response-time windows, c
 ---
 
 📬 **Let’s connect:**  
-[LinkedIn](https://linkedin.com/in/dibyajyoti-samal) | [Email](mailto:samaldibyajyoti2012@gmail.com) | [Resume](https://drive.google.com/file/d/1VOSeDypUwktAYOTTDk6W2zLQGWnzG3Xs/view?usp=sharing)
+[LinkedIn](https://linkedin.com/in/dibyajyoti-samal) | [Email](mailto:samaldibyajyoti2012@gmail.com) 
