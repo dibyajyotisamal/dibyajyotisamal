@@ -1,34 +1,38 @@
 # 👋 Hi, I'm Dibyajyoti Samal
 
 🎯 **Data Analyst** | SQL • Power BI • Excel | ex-Accenture  
-📍 Based in Bhubaneswar, India | 🌐 Open to opportunities
+📍 Bhubaneswar, India | 🌐 Open to Opportunities
+
+[![HackerRank SQL Advanced](https://img.shields.io/badge/SQL_Advanced-HackerRank-brightgreen?logo=hackerrank)](https://www.hackerrank.com/certificates/20c80727f572)
+[![SQL Intermediate](https://img.shields.io/badge/SQL_Intermediate-blue?logo=hackerrank)](https://www.hackerrank.com/certificates/e06ce9b66fce)
+[![SQL Basic](https://img.shields.io/badge/SQL_Basic-lightgrey?logo=hackerrank)](https://www.hackerrank.com/certificates/c14324f5ce64)
 
 ---
 
-I'm a former software developer at Accenture, now focused on turning data into actionable insights. Over the past year, I've built real-world analytics projects to solve problems that matter — from investment strategy analysis to optimizing job search outcomes with data.
+I'm a former software developer at Accenture, now focused on turning data into actionable insights. Over the past year, I've independently built data analytics projects that solve real-world business problems — from investment trend analysis to job search optimization.
 
-I'm certified in Advanced SQL (HackerRank) and use tools like Power BI, Excel, and DAX to build dashboards that uncover meaningful business insights.
+I work primarily with **SQL**, **Power BI**, and **Excel**, with advanced proficiency in **DAX** and a strong foundation in storytelling through dashboards.
 
 ---
 
-## 🧠 Featured Projects
+## 🚀 Featured Projects
 
 🔹 [**Global Fund Strategy Dashboard**](https://github.com/dibyajyotisamal/global-private-capital-trends)  
-A 7-panel Power BI dashboard uncovering trends in global fund concentration, strategy performance, and AUM distribution. Inspired by decision frameworks used by top firms like BlackRock.
+A 7-panel Power BI dashboard analyzing $24.2T in global private capital. Reveals insights on IRR trends, capital allocation shifts, and strategy-level performance — modeled after frameworks used by firms like BlackRock.
 
-🔹 [**Job Search Optimization with SQL + Power BI**](https://github.com/dibyajyotisamal/job-search-analytics-sql-powerbi)  
-Analyzing personal job application data to uncover high-response-time windows, channel performance, and application strategies.
-
----
-
-## 🚀 What I’m Working On
-- Building a GitHub-based portfolio to centralize my projects  
-- Exploring advanced data storytelling techniques in Power BI  
-- Preparing for the PL-300 certification
+🔹 [**Job Search Optimization (SQL + Power BI)**](https://github.com/dibyajyotisamal/job-search-analytics-sql-powerbi)  
+Analyzes personal job application patterns to surface optimal times, channels, and resume strategies for higher success rates.
 
 ---
 
+## 🔧 Currently Working On
 
- ![cv](https://github.com/user-attachments/assets/e4833e31-45de-43ee-be91-a3fc83274db6)
-[**My Resume**](https://drive.google.com/file/d/1VOSeDypUwktAYOTTDk6W2zLQGWnzG3Xs/view?usp=sharing) | 📬 **Let’s connect:**  | [LinkedIn](https://linkedin.com/in/dibyajyoti-samal) | [Email](mailto:samaldibyajyoti2012@gmail.com) 
+- Building a GitHub-based portfolio site for centralizing my analytics work  
+- Exploring advanced Power BI storytelling techniques  
+- Preparing for the **PL-300 (Microsoft Power BI Data Analyst Associate)** certification
 
+---
+
+## 📂 Resume & Contact
+
+📄 [**My Resume**](https://drive.google.com/file/d/1VOSeDypUwktAYOTTDk6W2zLQGWnzG3Xs/view?usp=sharing)  |  🔗 [**LinkedIn**](https://linkedin.com/in/dibyajyoti-samal)  |  📬 [**Email**](mailto:samaldibyajyoti2012@gmail.com)
