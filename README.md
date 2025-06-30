@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dibyajyoti Samal
 
 🎯 **Data Analyst** | SQL • Power BI • Excel | ex-Accenture  
-📍 Based in Bhubaneswar, India | 🌐 Open to remote opportunities
+📍 Based in Bhubaneswar, India | 🌐 Open to opportunities
 
 ---
 
