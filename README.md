@@ -3,9 +3,7 @@
 🎯 **Data Analyst** | SQL • Power BI • Excel | ex-Accenture  
 📍 Bhubaneswar, India | 🌐 Open to Opportunities
 
-[![HackerRank SQL Advanced](https://img.shields.io/badge/SQL_Advanced-HackerRank-brightgreen?logo=hackerrank)](https://www.hackerrank.com/certificates/20c80727f572)
-[![SQL Intermediate](https://img.shields.io/badge/SQL_Intermediate-blue?logo=hackerrank)](https://www.hackerrank.com/certificates/e06ce9b66fce)
-[![SQL Basic](https://img.shields.io/badge/SQL_Basic-lightgrey?logo=hackerrank)](https://www.hackerrank.com/certificates/c14324f5ce64)
+[![HackerRank SQL Advanced](https://img.shields.io/badge/SQL_Advanced-HackerRank-brightgreen?logo=hackerrank)](https://www.hackerrank.com/certificates/20c80727f572)  [![SQL Intermediate](https://img.shields.io/badge/SQL_Intermediate-blue?logo=hackerrank)](https://www.hackerrank.com/certificates/e06ce9b66fce)  [![SQL Basic](https://img.shields.io/badge/SQL_Basic-lightgrey?logo=hackerrank)](https://www.hackerrank.com/certificates/c14324f5ce64)
 
 ---
 
@@ -14,6 +12,15 @@ I'm a former software developer at Accenture, now focused on turning data into a
 I work primarily with **SQL**, **Power BI**, and **Excel**, with advanced proficiency in **DAX** and a strong foundation in storytelling through dashboards.
 
 ---
+
+## 🎖️ Certifications & Credentials
+
+**IBM Data Fundamentals** | July 10, 2025  
+[View credential on Credly](https://www.credly.com/badges/cac0cd9f-20a3-453e-9594-ded2bb143cbc/public_url)  
+Demonstrates working knowledge of core data-analytics concepts and methodologies, end-to-end data-cleaning and refinement, and data visualization in IBM Watson Studio, plus familiarity with the data-ecosystem toolset and job-role landscape.
+
+
+
 
 ## 🚀 Featured Projects
 
