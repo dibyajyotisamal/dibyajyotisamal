@@ -3,7 +3,7 @@
 🎯 **Data Analyst** | SQL • Power BI • Excel | ex-Accenture  
 📍 Bhubaneswar, India | 🌐 Open to Opportunities
 
-[![HackerRank SQL Advanced](https://img.shields.io/badge/SQL_Advanced-HackerRank-brightgreen?logo=hackerrank)](https://www.hackerrank.com/certificates/20c80727f572)  [![SQL Intermediate](https://img.shields.io/badge/SQL_Intermediate-blue?logo=hackerrank)](https://www.hackerrank.com/certificates/e06ce9b66fce)  [![SQL Basic](https://img.shields.io/badge/SQL_Basic-lightgrey?logo=hackerrank)](https://www.hackerrank.com/certificates/c14324f5ce64)
+[![Data Fundamentals](https://img.shields.io/badge/Data%20Fundamentals-IBM-blue?logo=IBM&logoColor=white)](https://www.credly.com/badges/cac0cd9f-20a3-453e-9594-ded2bb143cbc/public_url) [![HackerRank SQL Advanced](https://img.shields.io/badge/SQL_Advanced-HackerRank-brightgreen?logo=hackerrank)](https://www.hackerrank.com/certificates/20c80727f572)  [![SQL Intermediate](https://img.shields.io/badge/SQL_Intermediate-blue?logo=hackerrank)](https://www.hackerrank.com/certificates/e06ce9b66fce)  [![SQL Basic](https://img.shields.io/badge/SQL_Basic-lightgrey?logo=hackerrank)](https://www.hackerrank.com/certificates/c14324f5ce64)
 
 ---
 
