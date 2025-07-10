@@ -15,8 +15,7 @@ I work primarily with **SQL**, **Power BI**, and **Excel**, with advanced profic
 
 ## 🎖️ Certifications & Credentials
 
-**IBM Data Fundamentals** | July 10, 2025  
-[View credential on Credly](https://www.credly.com/badges/cac0cd9f-20a3-453e-9594-ded2bb143cbc/public_url)  
+🔹[**IBM Data Fundamentals**](https://www.credly.com/badges/cac0cd9f-20a3-453e-9594-ded2bb143cbc/public_url) | July 10, 2025  
 Demonstrates working knowledge of core data-analytics concepts and methodologies, end-to-end data-cleaning and refinement, and data visualization in IBM Watson Studio, plus familiarity with the data-ecosystem toolset and job-role landscape.
 
 
