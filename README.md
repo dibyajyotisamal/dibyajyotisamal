@@ -19,7 +19,7 @@ I work primarily with **SQL**, **Power BI**, and **Excel**, with advanced profic
 Demonstrates working knowledge of core data-analytics concepts and methodologies, end-to-end data-cleaning and refinement, and data visualization in IBM Watson Studio, plus familiarity with the data-ecosystem toolset and job-role landscape.
 
 
-
+---
 
 ## 🚀 Featured Projects
 
