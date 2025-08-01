@@ -25,7 +25,7 @@ I specialize in:
 ## 🚀 Featured Projects
 
 ### 🔹 [Global Fund Strategy Dashboard](https://github.com/dibyajyotisamal/global-private-capital-trends)  
-**Problem:** Institutional investors lacked visibility into $24.2T in private capital across fund strategies.  
+**Problem:** Institutional investors lacked visibility into the $24.2T in private capital across fund strategies.  
 **Solution:** Built a 7-panel Power BI dashboard using Preqin 2025 data, modeled after frameworks used by BlackRock.  
 **Impact:** Revealed IRR trends, capital reallocation patterns, and performance across fund types — actionable for capital planning and fund strategy evaluation.  
 **Tools:** Power BI, Excel, DAX, Business Framing
