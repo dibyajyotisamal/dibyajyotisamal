@@ -50,7 +50,8 @@ I specialize in:
 
 ## 🎖️ Certifications & Credentials
 
-- [**IBM Data Fundamentals**](https://www.credly.com/badges/cac0cd9f-20a3-453e-9594-ded2bb143cbc/public_url) | Jul 2025  
+- [**IBM Data Fundamentals**](https://www.credly.com/badges/cac0cd9f-20a3-453e-9594-ded2bb143cbc/public_url) | Jul 2025
+- [**IBM - Python for Data Science**](https://www.credly.com/badges/356b23a0-aed2-4fbd-8b53-baef7f3f43a9/public_url) | Aug 2025
 - [**HackerRank Advanced SQL**](https://www.hackerrank.com/certificates/20c80727f572) | Jun 2025
 - [**HackerRank Intermediate SQL**](https://www.hackerrank.com/certificates/e06ce9b66fce)  | Jun 2025
 - [**HackerRank Basic SQL**](https://www.hackerrank.com/certificates/c14324f5ce64) | Jun 2025
